@@ -1,0 +1,9 @@
+/babel.config.js
+/.editorconfig
+/.npmignore
+/test.js
+/.travis.yml
+/yarn.lock
+
+# Webstorm config dir
+/.idea
