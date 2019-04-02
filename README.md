@@ -2,6 +2,8 @@ easydoesit
 ==========
 Makes a function run no more than once per animation frame
 
+[![Build Status](https://travis-ci.org/me-andre/easydoesit.svg?branch=master)](https://travis-ci.org/me-andre/easydoesit)
+
 ### TL;DR
 
 ```
